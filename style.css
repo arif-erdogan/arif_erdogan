@@ -414,6 +414,6 @@ footer .social-links a:hover {
 
 .social-logo {
     height: 40px; /* Logonun yüksekliği */
-    width: auto; /* Genişlik otomatik */
+    width: 40px; /* Genişlik otomatik */
     margin: 0 15px; /* Logolar arasında boşluk */
 }
